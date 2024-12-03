@@ -1,2 +1,4 @@
 my second line 
 my forth line
+
+text to commit 
